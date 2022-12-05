@@ -1,0 +1,252 @@
+script.js:2 XMLHttpRequest {onreadystatechange: null, readyState: 0, timeout: 0, withCredentials: false, upload: XMLHttpRequestUpload, …}
+script.js:4 undefined
+​ Mauritania : Africa : 4649660 : Western Africa
+​ Aruba : Americas : 106766 : Caribbean
+​ Argentina : Americas : 45376763 : South America
+​ Sweden : Europe : 10353442 : Northern Europe
+​ Maldives : Asia : 540542 : Southern Asia
+​ Mexico : Americas : 128932753 : North America
+​ New Zealand : Oceania : 5084300 : Australia and New Zealand
+​ Ecuador : Americas : 17643060 : South America
+​ Wallis and Futuna : Oceania : 11750 : Polynesia
+​ Åland Islands : Europe : 29458 : Northern Europe
+​ Montenegro : Europe : 621718 : Southeast Europe
+​ Pakistan : Asia : 220892331 : Southern Asia
+​ Pitcairn Islands : Oceania : 56 : Polynesia
+​ Zambia : Africa : 18383956 : Eastern Africa
+​ Seychelles : Africa : 98462 : Eastern Africa
+​ Malaysia : Asia : 32365998 : South-Eastern Asia
+​ Norway : Europe : 5379475 : Northern Europe
+​ Uzbekistan : Asia : 34232050 : Central Asia
+​ Vanuatu : Oceania : 307150 : Melanesia
+​ French Southern and Antarctic Lands : Antarctic : 400 : undefined
+​ Christmas Island : Oceania : 2072 : Australia and New Zealand
+​ Singapore : Asia : 5685807 : South-Eastern Asia
+​ Suriname : Americas : 586634 : South America
+​ Western Sahara : Africa : 510713 : Northern Africa
+​ Saint Martin : Americas : 38659 : Caribbean
+​ Costa Rica : Americas : 5094114 : Central America
+​ Heard Island and McDonald Islands : Antarctic : 0 : undefined
+​ Ireland : Europe : 4994724 : Northern Europe
+​ Antarctica : Antarctic : 1000 : undefined
+​ Australia : Oceania : 25687041 : Australia and New Zealand
+​ Libya : Africa : 6871287 : Northern Africa
+​ Qatar : Asia : 2881060 : Western Asia
+​ Greenland : Americas : 56367 : North America
+​ Mauritius : Africa : 1265740 : Eastern Africa
+​ Kazakhstan : Asia : 18754440 : Central Asia
+​ British Indian Ocean Territory : Africa : 3000 : Eastern Africa
+​ Albania : Europe : 2837743 : Southeast Europe
+​ Bahrain : Asia : 1701583 : Western Asia
+​ Papua New Guinea : Oceania : 8947027 : Melanesia
+​ Burundi : Africa : 11890781 : Eastern Africa
+​ India : Asia : 1380004385 : Southern Asia
+​ Uruguay : Americas : 3473727 : South America
+​ Saint Lucia : Americas : 183629 : Caribbean
+​ Barbados : Americas : 287371 : Caribbean
+​ New Caledonia : Oceania : 271960 : Melanesia
+​ Latvia : Europe : 1901548 : Northern Europe
+​ Estonia : Europe : 1331057 : Northern Europe
+​ Niue : Oceania : 1470 : Polynesia
+​ Saint Barthélemy : Americas : 4255 : Caribbean
+​ Puerto Rico : Americas : 3194034 : Caribbean
+​ Grenada : Americas : 112519 : Caribbean
+​ Macau : Asia : 649342 : Eastern Asia
+​ Cyprus : Europe : 1207361 : Southern Europe
+​ Isle of Man : Europe : 85032 : Northern Europe
+​ Greece : Europe : 10715549 : Southern Europe
+​ Syria : Asia : 17500657 : Western Asia
+​ Lithuania : Europe : 2794700 : Northern Europe
+​ Curaçao : Americas : 155014 : Caribbean
+​ Dominica : Americas : 71991 : Caribbean
+​ Niger : Africa : 24206636 : Western Africa
+​ Kyrgyzstan : Asia : 6591600 : Central Asia
+​ Trinidad and Tobago : Americas : 1399491 : Caribbean
+​ Togo : Africa : 8278737 : Western Africa
+​ Palestine : Asia : 4803269 : Western Asia
+​ Madagascar : Africa : 27691019 : Eastern Africa
+​ Croatia : Europe : 4047200 : Southeast Europe
+​ Faroe Islands : Europe : 48865 : Northern Europe
+​ Haiti : Americas : 11402533 : Caribbean
+​ Montserrat : Americas : 4922 : Caribbean
+​ Cook Islands : Oceania : 18100 : Polynesia
+​ Timor-Leste : Asia : 1318442 : South-Eastern Asia
+​ Martinique : Americas : 378243 : Caribbean
+​ Cuba : Americas : 11326616 : Caribbean
+​ Taiwan : Asia : 23503349 : Eastern Asia
+​ Eswatini : Africa : 1160164 : Southern Africa
+​ Ukraine : Europe : 44134693 : Eastern Europe
+​ Bermuda : Americas : 63903 : North America
+​ South Korea : Asia : 51780579 : Eastern Asia
+​ Peru : Americas : 32971846 : South America
+​ Iraq : Asia : 40222503 : Western Asia
+​ Moldova : Europe : 2617820 : Eastern Europe
+​ San Marino : Europe : 33938 : Southern Europe
+​ Venezuela : Americas : 28435943 : South America
+​ Guyana : Americas : 786559 : South America
+​ Cayman Islands : Americas : 65720 : Caribbean
+​ Cambodia : Asia : 16718971 : South-Eastern Asia
+​ Cocos (Keeling) Islands : Oceania : 544 : Australia and New Zealand
+​ Malta : Europe : 525285 : Southern Europe
+​ Sri Lanka : Asia : 21919000 : Southern Asia
+​ Israel : Asia : 9216900 : Western Asia
+​ Sudan : Africa : 43849269 : Northern Africa
+​ United States Virgin Islands : Americas : 106290 : Caribbean
+​ Eritrea : Africa : 5352000 : Eastern Africa
+​ Mali : Africa : 20250834 : Western Africa
+​ Somalia : Africa : 15893219 : Eastern Africa
+​ Norfolk Island : Oceania : 2302 : Australia and New Zealand
+​ Comoros : Africa : 869595 : Eastern Africa
+​ Nicaragua : Americas : 6624554 : Central America
+​ Russia : Europe : 144104080 : Eastern Europe
+​ Uganda : Africa : 45741000 : Eastern Africa
+​ Nauru : Oceania : 10834 : Micronesia
+​ Switzerland : Europe : 8654622 : Western Europe
+​ Portugal : Europe : 10305564 : Southern Europe
+​ Tajikistan : Asia : 9537642 : Central Asia
+​ South Sudan : Africa : 11193729 : Middle Africa
+​ Bouvet Island : Antarctic : 0 : undefined
+​ Micronesia : Oceania : 115021 : Micronesia
+​ American Samoa : Oceania : 55197 : Polynesia
+​ Czechia : Europe : 10698896 : Central Europe
+​ Botswana : Africa : 2351625 : Southern Africa
+​ Tunisia : Africa : 11818618 : Northern Africa
+​ Anguilla : Americas : 13452 : Caribbean
+​ Guinea-Bissau : Africa : 1967998 : Western Africa
+​ Slovakia : Europe : 5458827 : Central Europe
+​ Marshall Islands : Oceania : 59194 : Micronesia
+​ Algeria : Africa : 44700000 : Northern Africa
+​ Jamaica : Americas : 2961161 : Caribbean
+​ Mozambique : Africa : 31255435 : Eastern Africa
+​ Spain : Europe : 47351567 : Southern Europe
+​ Honduras : Americas : 9904608 : Central America
+​ Netherlands : Europe : 16655799 : Western Europe
+​ South Africa : Africa : 59308690 : Southern Africa
+​ Azerbaijan : Asia : 10110116 : Western Asia
+​ North Macedonia : Europe : 2077132 : Southeast Europe
+​ Gambia : Africa : 2416664 : Western Africa
+​ Liberia : Africa : 5057677 : Western Africa
+​ Luxembourg : Europe : 632275 : Western Europe
+​ Cape Verde : Africa : 555988 : Western Africa
+​ Bahamas : Americas : 393248 : Caribbean
+​ Georgia : Asia : 3714000 : Western Asia
+​ Kiribati : Oceania : 119446 : Micronesia
+​ Tanzania : Africa : 59734213 : Eastern Africa
+​ China : Asia : 1402112000 : Eastern Asia
+​ Guatemala : Americas : 16858333 : Central America
+​ São Tomé and Príncipe : Africa : 219161 : Middle Africa
+​ Germany : Europe : 83240525 : Western Europe
+​ Sierra Leone : Africa : 7976985 : Western Africa
+​ Chad : Africa : 16425859 : Middle Africa
+​ United Kingdom : Europe : 67215293 : Northern Europe
+​ Slovenia : Europe : 2100126 : Central Europe
+​ Thailand : Asia : 69799978 : South-Eastern Asia
+​ Indonesia : Asia : 273523621 : South-Eastern Asia
+​ Northern Mariana Islands : Oceania : 57557 : Micronesia
+​ Guam : Oceania : 168783 : Micronesia
+​ Finland : Europe : 5530719 : Northern Europe
+​ Mayotte : Africa : 226915 : Eastern Africa
+​ Gibraltar : Europe : 33691 : Southern Europe
+​ Turkmenistan : Asia : 6031187 : Central Asia
+​ Kosovo : Europe : 1775378 : Southeast Europe
+​ Ivory Coast : Africa : 26378275 : Western Africa
+​ Morocco : Africa : 36910558 : Northern Africa
+​ Dominican Republic : Americas : 10847904 : Caribbean
+​ Ghana : Africa : 31072945 : Western Africa
+​ Vatican City : Europe : 451 : Southern Europe
+​ Jersey : Europe : 100800 : Northern Europe
+​ Turkey : Asia : 84339067 : Western Asia
+​ Tuvalu : Oceania : 11792 : Polynesia
+​ Iran : Asia : 83992953 : Southern Asia
+​ Egypt : Africa : 102334403 : Northern Africa
+​ Denmark : Europe : 5831404 : Northern Europe
+​ Kenya : Africa : 53771300 : Eastern Africa
+​ Bulgaria : Europe : 6927288 : Southeast Europe
+​ Zimbabwe : Africa : 14862927 : Southern Africa
+​ Angola : Africa : 32866268 : Middle Africa
+​ Nigeria : Africa : 206139587 : Western Africa
+​ Poland : Europe : 37950802 : Central Europe
+​ Senegal : Africa : 16743930 : Western Africa
+​ Saint Helena, Ascension and Tristan da Cunha : Africa : 53192 : Western Africa
+​ Lebanon : Asia : 6825442 : Western Asia
+​ Samoa : Oceania : 198410 : Polynesia
+​ Philippines : Asia : 109581085 : South-Eastern Asia
+​ Guernsey : Europe : 62999 : Northern Europe
+​ El Salvador : Americas : 6486201 : Central America
+​ Kuwait : Asia : 4270563 : Western Asia
+​ Tonga : Oceania : 105697 : Polynesia
+​ Oman : Asia : 5106622 : Western Asia
+​ Afghanistan : Asia : 40218234 : Southern Asia
+script.js:11 Saint Kitts and Nevis : Americas : 53192 : Caribbean
+script.js:11 Central African Republic : Africa : 4829764 : Middle Africa
+script.js:11 Serbia : Europe : 6908224 : Southeast Europe
+script.js:11 Armenia : Asia : 2963234 : Western Asia
+script.js:11 Bangladesh : Asia : 164689383 : Southern Asia
+script.js:11 Laos : Asia : 7275556 : South-Eastern Asia
+script.js:11 Chile : Americas : 19116209 : South America
+script.js:11 French Polynesia : Oceania : 280904 : Polynesia
+script.js:11 Panama : Americas : 4314768 : Central America
+script.js:11 United States : Americas : 329484123 : North America
+script.js:11 Nepal : Asia : 29136808 : Southern Asia
+script.js:11 Myanmar : Asia : 54409794 : South-Eastern Asia
+script.js:11 Falkland Islands : Americas : 2563 : South America
+script.js:11 Hungary : Europe : 9749763 : Central Europe
+script.js:11 Palau : Oceania : 18092 : Micronesia
+script.js:11 Equatorial Guinea : Africa : 1402985 : Middle Africa
+script.js:11 Guinea : Africa : 13132792 : Western Africa
+script.js:11 United Arab Emirates : Asia : 9890400 : Western Asia
+script.js:11 Turks and Caicos Islands : Americas : 38718 : Caribbean
+script.js:11 British Virgin Islands : Americas : 30237 : Caribbean
+script.js:11 Liechtenstein : Europe : 38137 : Western Europe
+script.js:11 Bosnia and Herzegovina : Europe : 3280815 : Southeast Europe
+script.js:11 Malawi : Africa : 19129955 : Eastern Africa
+script.js:11 Bhutan : Asia : 771612 : Southern Asia
+script.js:11 Cameroon : Africa : 26545864 : Middle Africa
+script.js:11 Andorra : Europe : 77265 : Southern Europe
+script.js:11 Guadeloupe : Americas : 400132 : Caribbean
+script.js:11 Republic of the Congo : Africa : 5657000 : Middle Africa
+script.js:11 Réunion : Africa : 840974 : Eastern Africa
+script.js:11 Burkina Faso : Africa : 20903278 : Western Africa
+script.js:11 Jordan : Asia : 10203140 : Western Asia
+script.js:11 DR Congo : Africa : 108407721 : Middle Africa
+script.js:11 Tokelau : Oceania : 1411 : Polynesia
+script.js:11 Vietnam : Asia : 97338583 : South-Eastern Asia
+script.js:11 Sint Maarten : Americas : 40812 : Caribbean
+script.js:11 Belgium : Europe : 11555997 : Western Europe
+script.js:11 United States Minor Outlying Islands : Americas : 300 : North America
+script.js:11 Brazil : Americas : 212559409 : South America
+script.js:11 Belize : Americas : 397621 : Central America
+script.js:11 Antigua and Barbuda : Americas : 97928 : Caribbean
+script.js:11 Paraguay : Americas : 7132530 : South America
+script.js:11 Benin : Africa : 12123198 : Western Africa
+script.js:11 Brunei : Asia : 437483 : South-Eastern Asia
+script.js:11 Bolivia : Americas : 11673029 : South America
+script.js:11 Djibouti : Africa : 988002 : Eastern Africa
+script.js:11 French Guiana : Americas : 254541 : South America
+script.js:11 Canada : Americas : 38005238 : North America
+script.js:11 Saint Pierre and Miquelon : Americas : 6069 : North America
+script.js:11 Japan : Asia : 125836021 : Eastern Asia
+script.js:11 Rwanda : Africa : 12952209 : Eastern Africa
+script.js:11 Saint Vincent and the Grenadines : Americas : 110947 : Caribbean
+script.js:11 Iceland : Europe : 366425 : Northern Europe
+script.js:11 Belarus : Europe : 9398861 : Eastern Europe
+script.js:11 Hong Kong : Asia : 7500700 : Eastern Asia
+script.js:11 Lesotho : Africa : 2142252 : Southern Africa
+script.js:11 Fiji : Oceania : 896444 : Melanesia
+script.js:11 Austria : Europe : 8917205 : Central Europe
+script.js:11 Colombia : Americas : 50882884 : South America
+script.js:11 Gabon : Africa : 2225728 : Middle Africa
+script.js:11 Saudi Arabia : Asia : 34813867 : Western Asia
+script.js:11 South Georgia : Antarctic : 30 : undefined
+script.js:11 Ethiopia : Africa : 114963583 : Eastern Africa
+script.js:11 Caribbean Netherlands : Americas : 25987 : Caribbean
+script.js:11 Monaco : Europe : 39244 : Western Europe
+script.js:11 North Korea : Asia : 25778815 : Eastern Asia
+script.js:11 Italy : Europe : 59554023 : Southern Europe
+script.js:11 Namibia : Africa : 2540916 : Southern Africa
+script.js:11 Mongolia : Asia : 3278292 : Eastern Asia
+script.js:11 Solomon Islands : Oceania : 686878 : Melanesia
+script.js:11 Yemen : Asia : 29825968 : Western Asia
+script.js:11 Romania : Europe : 19286123 : Southeast Europe
+script.js:11 Svalbard and Jan Mayen : Europe : 2562 : Northern Europe
+script.js:11 France : Europe : 67391582 : Western Europe
